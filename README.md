@@ -13,10 +13,10 @@
 <img src="readme_images/3-2-log-regression.png" width="500">
 
 ### - **Bias variance trade-off comparison on sin(x)**
-<img src="readme_images/3-1-log-regression.png" width="500">
-<img src="readme_images/3-2-log-regression.png" width="500">
+<img src="readme_images/4-1-bias-variance-linear.png" width="500">
+<img src="readme_images/4-2-bias-variance-line.png" width="500">
 
-### - **Bias variance trade-off comparison on sin(x)**
-
+### - **Decision trees, entropy and information gain**
+<img src="readme_images/5-1-decision-tree.png" width="500">
 
 
