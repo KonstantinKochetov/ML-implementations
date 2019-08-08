@@ -18,6 +18,6 @@
 
 ### - **Decision trees, entropy and information gain**
 <img src="readme_images/5-1-decision-tree.png" width="500">
-Запусти decision tree (skleatn)
+
 
 
